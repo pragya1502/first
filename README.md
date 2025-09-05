@@ -1,4 +1,4 @@
 # first
 1st git repository
 <br>
-Author- Pragya
+Author- Pragya s
